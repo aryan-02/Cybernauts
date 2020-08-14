@@ -1,0 +1,28 @@
+body {
+	background-color: #00aeef;
+}
+h1 {
+	color: white;
+	background-color: #000;
+	margin: 100px;
+}
+#head1 {
+	text-decoration: underline;
+}
+.red {
+	color: red;
+}
+
+button {
+	background: #42f578;
+	color: white;
+	padding: 50px;
+	transition: all 0.5s;
+	font-size: 30px;
+	border-radius: 30px;
+}
+
+button:hover {
+	background: cyan;
+	transform: scale(1.5);
+}
